@@ -1,5 +1,7 @@
 # 🎁 Amigo Secreto
-- [https://github.com/yhuaman](http://img.atelier801.com/dea4f35b.jpg)
+<p align="center">
+  <img src="assets/amigoSecreto.jpg" alt="Amigo Secreto" width="300">
+</p>
 
 ## 📑 Índice
 1. Descripción del Proyecto
