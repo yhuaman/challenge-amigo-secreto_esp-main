@@ -1,10 +1,25 @@
-<H1> RETO: </H1>
+<H1> AMIGO SECRETO </H1>
+
+<H2> INSIGNIAS </H2>
+<H2> INDICE </H2>
+    - Descripción del Proyecto
+    - Estado del proyecto
+    - Demostración de funciones y aplicaciones
+    - Acceso al Proyecto
+    - Tecnologías utilizadas
+    - Personas Contribuyentes
+    - Personas Desarrolladoras del Proyecto
+    - Licencia.
+
+
+
+<H2> 1. Descripción del proyecto: </H2>
 Amigo secreto
 En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
-Fucionalidades:
+<H2> 2. Funcionalidades: </H2>
  - Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
  - Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
@@ -12,3 +27,8 @@ Fucionalidades:
  - Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
  - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+<H2> Como pueden usarlo: </H2>
+  - Para
+
+<H2> Funcionalidades: </H2>
