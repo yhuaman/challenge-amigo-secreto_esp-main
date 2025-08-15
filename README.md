@@ -35,7 +35,7 @@
 
 ## 🎥 Demostración
 <p align="center">
-  <img src="assets/demostracion_AS.gif" alt="Amigo Secreto" width="300">
+  <img src="assets/demostracion_AS.gif" alt="Amigo Secreto" width="800">
 </p> 
 
 Ejemplo de uso:  
